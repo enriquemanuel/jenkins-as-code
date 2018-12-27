@@ -52,5 +52,5 @@ security:
 # root
 unclassified:
   location:
-    adminAddress: "caseflow@va.gov"
-    url: "http://appealsjenkins.ds.va.gov/"
+    adminAddress: "em@enriquemanuel.me"
+    url: "<ip>"
