@@ -52,5 +52,5 @@ security:
 # root
 unclassified:
   location:
-    adminAddress: "em@enriquemanuel.me"
+    adminAddress: "<admin_email>"
     url: "<ip>"
